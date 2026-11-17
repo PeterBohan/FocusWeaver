@@ -25,7 +25,7 @@ Clone the repository and run the app from the folder containing `Package.swift`:
 
 ```bash
 git clone https://github.com/PeterBohan/FocusWeaver.git
-cd FocusWeaver
+cd FocusWeaver/Focus
 swift build
 swift run FocusWeaverMac
 ```
